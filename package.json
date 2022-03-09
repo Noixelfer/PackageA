@@ -1,0 +1,7 @@
+{
+	"name": "com.Noixelfer.packageA",
+	"displayName": "Package A",
+	"version": "1.0.0",
+	"dependencies": {
+	}
+}
