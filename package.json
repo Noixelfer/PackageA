@@ -1,7 +1,7 @@
 {
 	"name": "com.noixelfer.packagea",
 	"displayName": "Package A",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 	}
 }
